@@ -11,6 +11,6 @@ To download and install run:
 
 After Install has compleated to install an SSL with Let's Encrypt Cert Bot run:
 
-**sudo certbot --apache -m ssl@lochstudios.com -d example.com**
+**sudo certbot --apache -m mail@example.com -d example.com**
 
-Replace **example.com** with your website hostname.
+Replace "**mail@example.com**" with your email and replace "-d **example.com**" with your website hostname.
