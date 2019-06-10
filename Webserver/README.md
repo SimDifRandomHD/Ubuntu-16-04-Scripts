@@ -1,7 +1,8 @@
 # Ubuntu 16-04 Scripts - Webserver
 
 * Installs Apache2.4
-* Installs php + every extenstion
+* Installs PHP 
+    * Plus Every PHP Extenstion
 * Installs Let's Encrypt Cert Bot
 
 To download and install run:
