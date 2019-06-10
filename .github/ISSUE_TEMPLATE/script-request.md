@@ -2,7 +2,7 @@
 name: Script Request
 about: Suggest an script for this project
 title: ''
-labels: ''
+labels: Script Request
 assignees: ''
 
 ---

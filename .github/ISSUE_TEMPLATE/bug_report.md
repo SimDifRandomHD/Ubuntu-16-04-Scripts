@@ -24,7 +24,6 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Type of server (please complete the following information):**
- - OS: [e.g. iOS]
  - Version [e.g. Ubuntu 16.04x64]
 
 **Additional context**
