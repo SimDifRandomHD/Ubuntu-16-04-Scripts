@@ -1,1 +1,1 @@
-# WELCOME TO: Ubuntu 16-04 Scripts - Teamspeak
+Ubuntu 16-04 Scripts - Teamspeak
