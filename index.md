@@ -6,12 +6,21 @@ If you need a script here or you think you have a script that may help others or
 
 # To download and install any of the scripts;
 **Ubuntu 16-04 Scripts - Webserver**
+
 wget -O- https://lochstudios.rocks/Webserver/webserver-install.sh | bash
+
 **Ubuntu 16-04 Scripts - Teamspeak**
+
 wget -O- https://lochstudios.rocks/Teamspeak/install.sh | bash
+
 **Ubuntu 16-04 Scripts - Minecraft Vanilla**
+
 wget -O- https://lochstudios.rocks/Minecraft/Vanilla/vanilla.sh | bash
+
 **Ubuntu 16-04 Scripts - Minecraft Network**
+
 wget -O- https://lochstudios.rocks/Minecraft/Network/network.sh | bash
+
 **Ubuntu 16-04 Scripts - Minecraft Adding An Extra Server**
+
 wget -O- https://lochstudios.rocks/Minecraft/Add%20Server/add-minecraft-server.sh | bash
