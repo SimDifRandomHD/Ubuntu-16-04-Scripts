@@ -7,4 +7,4 @@ This Script just installs the following:
 
 To download and install run:
 
-wget -O- https://lochstudios.rocks/Minecraft/Network/network.sh | bash
+``wget -O- https://lochstudios.rocks/Minecraft/Network/network.sh | bash``
