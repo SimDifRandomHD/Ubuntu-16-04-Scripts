@@ -13,6 +13,6 @@ This script install all the necessary files to **/home/teamspeak**.
 * Shows you the **Server Admin Privilege Key**.
 
 
-To download and install Teamspeak3 Server. run:
+To download and install Teamspeak3 Server run:
 
-wget -O- https://lochstudios.rocks/Teamspeak/install.sh | bash
+``wget -O- https://lochstudios.rocks/Teamspeak/install.sh | bash``
