@@ -11,6 +11,6 @@ To download and install run:
 
 After Install has compleated to install an SSL with Let's Encrypt Cert Bot run:
 
-**sudo certbot --apache -d example.com**
+``sudo certbot --apache -d example.com``
 
 Replace "**example.com**" with your website hostname, then follow what the script tells you.
