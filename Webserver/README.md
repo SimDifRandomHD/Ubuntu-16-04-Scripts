@@ -7,7 +7,7 @@
 
 To download and install run:
 
-**wget -O- https://lochstudios.rocks/Webserver/webserver-install.sh | bash**
+``wget -O- https://lochstudios.rocks/Webserver/webserver-install.sh | bash``
 
 After Install has compleated to install an SSL with Let's Encrypt Cert Bot run:
 
