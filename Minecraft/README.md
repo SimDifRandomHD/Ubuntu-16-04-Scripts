@@ -12,3 +12,5 @@ To download and install any of the servers run:
     * To install 3 networked servers.
 * wget -O- https://lochstudios.rocks/Minecraft/Add%20Server/add-minecraft-server.sh | bash
     * To add a server to a alreadying running network or server.
+* wget -O- https://lochstudios.rocks/Minecraft/KCauldron/kcauldron.sh | bash
+    * To install KCauldron
