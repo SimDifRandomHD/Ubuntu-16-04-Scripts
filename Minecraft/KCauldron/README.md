@@ -4,7 +4,7 @@ This script just installs KCauldron.
 
 What is KCauldron?
 
-It allows compatibility for Mods and Plugins to be installed on your server at the same time.
+**It allows compatibility for Mods and Plugins to be installed on your server at the same time.**
 
 To download and install run:
 
